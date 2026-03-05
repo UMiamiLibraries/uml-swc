@@ -1,1 +1,1 @@
-# uml-swc
+# UML Software Carpentry uml-swc
