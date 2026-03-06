@@ -1,16 +1,19 @@
-# paths to desktop
+# Common problems for the bash shell lesson 
 
-## Mac
+## paths to desktop
+
+### Mac
 `cd /Users/<user>/Desktop`
 
-## PC
+### PC
 `cd /Users/<user>/Desktop`
 
-### with OneDrive
+#### with OneDrive
 `cd '/Users/<user>/OneDrive - University of Miami/Desktop'`
 
-### with WSL
+#### with WSL
 `cd /mnt/c/Users/<user>/Desktop`
 
-### with WSL and OneDrive
-`cd '/mnt/c/Users/<user>/OneDrive - University of Miami\Desktop'`
+#### with WSL and OneDrive
+
+`cd '/mnt/c/Users/<user>/OneDrive - University of Miami/Desktop'`
