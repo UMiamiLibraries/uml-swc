@@ -9,5 +9,6 @@ Please type 'yes', 'no' or the fingerprint: yes
 Warning: Permanently added 'github.com' (RSA) to the list of known hosts.
 git@github.com: Permission denied (publickey).
 
-Many times students forget to type in "yes." If a student did not type "yes" have them again repeat ssh -T git@github.com and then when prompted type "yes."
+Many times students forget to type in "yes." If a student did not type "yes" have them again repeat "ssh -T git@github.com" and then when prompted type "yes."
+
 
